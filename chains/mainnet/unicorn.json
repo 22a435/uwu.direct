@@ -23,6 +23,26 @@
   "theme_color": "#ff00ff",
   "assets": [
     {
+      "base": "factory/unicorn167xpap77dtenxsq2lzdgx52ntnce2v4h8f72epdwwrak6jxemsrqprj4xm/upurplephat",
+      "symbol": "💜🎉​",
+      "exponent": "6"
+    },
+    {
+      "base": "factory/unicorn1pawhaxskmdkzvfgevs0dh4lxuctn4x8wt2sqyz95tgem9ne2nrwqjg6rvq/udiamond",
+      "symbol": "💎(summon)",
+      "exponent": "6"
+    },
+    {
+      "base": "factory/unicorn1q7u6kr50e7ar25ry4vu6u9vegj8gfryaucz7szryke89v2pdpf3szq7n9q/ulawb",
+      "symbol": "🦞",
+      "exponent": "6"
+    },
+    {
+      "base": "factory/unicorn1qgyq8sun340s5wlyyu8356l9k0d22kgh85k243v2mns6v7q3l0qsrp9axs/ucrown",
+      "symbol": "👑",
+      "exponent": "6"
+    },    
+    {
       "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ualien",
       "symbol": "👽",
       "exponent": "6"
@@ -148,6 +168,11 @@
       "exponent": "6"
     },
     {
+      "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ugirl",
+      "symbol": "🎀",
+      "exponent": "6"
+    },
+    {
       "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ugun",
       "symbol": "▄︻デ══‐一♡",
       "exponent": "6"
@@ -223,6 +248,11 @@
       "exponent": "6"
     },
     {
+      "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upurplepill",
+      "symbol": "💜",
+      "exponent": "6"
+    },
+    {
       "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uretard",
       "symbol": "🫵🤡",
       "exponent": "6"
@@ -263,6 +293,11 @@
       "exponent": "6"
     },
     {
+      "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usparkle",
+      "symbol": "✨",
+      "exponent": "6"
+    },
+    {
       "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usushi",
       "symbol": "🍣",
       "exponent": "6"
@@ -290,6 +325,21 @@
     {
       "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uwatermelon",
       "symbol": "🍉",
+      "exponent": "6"
+    },
+    {
+      "base": "factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uwuxd",
+      "symbol": "XD",
+      "exponent": "6"
+    },
+    {
+      "base": "factory/unicorn1t9j6dnlqq5vk4ks0dtlt6rgn9ytp6fxweht708958dz4h7sqvrkq4gqw4w/upurplephat",
+      "symbol": "💜🎉​(dupe)",
+      "exponent": "6"
+    },
+    {
+      "base": "factory/unicorn1y3pugq3g467v6hhlysedeqs2lkrlql7vhejp9eydk0xr8y5xwqas79rc7p/uucoconutdoggy",
+      "symbol": "🥥🐕",
       "exponent": "6"
     },
     {
